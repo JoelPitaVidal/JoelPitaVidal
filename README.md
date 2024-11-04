@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JoelPitaVidal
-- 👀 I’m interested in programing and video games
-- 🌱 I’m currently learning python and a FP of DAM
-- 📫 reach me in jpitavidal@danielcastelao.org
+- 👀 I’m interested in programing and the video-games design
+- 🌱 I’m currently learning a FP of DAM
+- 📫 reach me in yoelpitavidal@gmail.com
 
 <!---
 JoelPitaVidal/JoelPitaVidal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
