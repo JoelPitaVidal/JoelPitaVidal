@@ -27,7 +27,7 @@ I'm a **Fullstack Junior Developer** passionate about building clean, efficient,
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### Backend
@@ -74,14 +74,4 @@ I'm a **Fullstack Junior Developer** passionate about building clean, efficient,
 </p>
 
 ---
-
-## 📬 Contact
-
-Feel free to reach out if you'd like to collaborate, discuss a project, or just connect.
-
-- 📧 **Email:** tuemail@gmail.com
-- 💼 **LinkedIn:** [linkedin.com/in/tu-usuario](https://linkedin.com/in/tu-usuario)
-
----
-
 <p align="center"><i>"First, solve the problem. Then, write the code." – John Johnson</i></p>
