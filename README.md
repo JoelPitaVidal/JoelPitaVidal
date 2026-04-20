@@ -2,9 +2,10 @@
 
 <!--
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://tu-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Joel Pita Vidal)
+
 -->
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yoelpitavidal@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Joel Pita Vidal)
 ---
 
 ## 👤 About Me
@@ -14,7 +15,7 @@ I'm a **Fullstack Junior Developer** passionate about building clean, efficient,
 - 🎯 Focused on writing readable, maintainable code
 - 📚 Always learning and keeping up with new technologies
 - 🤝 Open to collaborate on interesting projects
-- 📍 Based in Spain
+- 📍 Living in Spain
 
 ---
 
