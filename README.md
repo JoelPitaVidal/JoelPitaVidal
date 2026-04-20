@@ -1,10 +1,10 @@
 # Hi, I'm JoelPitaVidal 👋
 
-<!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-usuario)
+<!--
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://tu-portfolio.com)
 -->
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yoelpitavidal@gmail.com)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Joel Pita Vidal)
 ---
 
 ## 👤 About Me
@@ -40,38 +40,6 @@ I'm a **Fullstack Junior Developer** passionate about building clean, efficient,
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-## 📂 Featured Projects
-
-### 🔹 [Project Name 1](https://github.com/tu-usuario/proyecto-1)
-> Brief description of what this project does and the problem it solves.
-
-`Kotlin` `Spring Boot` `PostgreSQL`
-
----
-
-### 🔹 [Project Name 2](https://github.com/tu-usuario/proyecto-2)
-> Brief description of what this project does and the problem it solves.
-
-`JavaScript` `React` `Node.js`
-
----
-
-### 🔹 [Project Name 3](https://github.com/tu-usuario/proyecto-3)
-> Brief description of what this project does and the problem it solves.
-
-`Python` `FastAPI` `SQLite`
-
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=default&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=default&hide_border=true" height="160"/>
-</p>
 
 ---
 <p align="center"><i>"First, solve the problem. Then, write the code." – John Johnson</i></p>
