@@ -43,4 +43,4 @@ I'm a **Fullstack Junior Developer** passionate about building clean, efficient,
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
-<p align="center"><i>"First, solve the problem. Then, write the code." – John Johnson</i></p>
+<p align="center"><i>"First, solve the problem. Then, write the code.</i></p>
